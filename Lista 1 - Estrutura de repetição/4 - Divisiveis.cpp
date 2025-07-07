@@ -22,7 +22,7 @@ scanf ("%d", &num);
 
 printf ("\n");
 		
-printf ("Os numeros divisiveis por %d ate 100 sao:\n", n1)	;	
+printf ("Os numeros divisiveis por %d ate 100 sao:\n",num)	;	
 		
 
 for (n1 = 1; n1 <= 100; n1++) {
@@ -33,8 +33,6 @@ printf ("%d ", n1);
 
 }
 }
-	
-	return 0; 
-		
+	return 0; 	
 }
 
